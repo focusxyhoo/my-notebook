@@ -10,4 +10,4 @@
 
 [修改文件编码格式](https://github.com/focusxyhoo/my-notebook/blob/master/Tools/%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E7%BC%96%E7%A0%81%E6%A0%BC%E5%BC%8F.md): 介绍批量修改文件编码格式的命令行工具.
 
-[resource]
+[resource](https://github.com/focusxyhoo/my-notebook/tree/master/Tools/resources): 新增资源文件夹, 存放文件中提到的资源文件.
