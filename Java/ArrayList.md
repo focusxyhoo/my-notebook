@@ -4,9 +4,10 @@
 
 ArrayList 是基于数组实现的，但是是一个动态数组，其容量能够自动增长。它的继承结构如下图所示：
 
-![](/Users/huxiaoyang/Library/Mobile Documents/com~apple~CloudDocs/MyNotebook/resource/ArrayList.PNG)
+![](/Users/huxiaoyang/Documents/GitHub/my-notebook/Attachments/ArrayList.PNG)
 
 从上图可以看到：
+
 1. ArrayList 继承自 AbstractList，同时实现了 List 接口，它是一个数组队列，提供了添加、删除、修改、遍历等功能。
 2. ArrayList 实现了 RandomAccess 接口，即提供了随机访问功能。RandomAccess 接口是Java中为 List 提供快速访问功能的。在 ArrayList 中，我们可以通过元素的序号快速访问获取元素对象，这就是快速随机访问。
 3. ArrayList 实现了 Cloneable 接口，即覆盖了函数 clone()，能被克隆。
